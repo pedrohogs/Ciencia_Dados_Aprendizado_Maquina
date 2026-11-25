@@ -3,7 +3,7 @@
 - **Projeto:** Precificação Preditiva de Imóveis Residenciais com CRISP-DM
 - **Disciplina:** Ciência de Dados e Aprendizagem de Máquina — Profa. Kadidja Valéria Reginaldo de Oliveira
 - **Curso:** Ciência da Computação
-- **Turma / Turno:** [PREENCHER]
+- **Turma / Turno:** N1 Noturno
 - **Data da Avaliação A1:** 25/11/2026
 - **Repositório:** https://github.com/pedrohogs/Ciencia_Dados_Aprendizado_Maquina
 - **Integrante:** Pedro Henrique de Oliveira Gomes | **R.G.M.:** [PREENCHER] | **Contribuição:** Desenvolvimento integral (Fases 1 a 6)
