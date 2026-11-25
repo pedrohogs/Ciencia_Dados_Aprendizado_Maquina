@@ -6,7 +6,7 @@
 - **Turma / Turno:** N1 Noturno
 - **Data da Avaliação A1:** 25/11/2026
 - **Repositório:** https://github.com/pedrohogs/Ciencia_Dados_Aprendizado_Maquina
-- **Integrante:** Pedro Henrique de Oliveira Gomes | **R.G.M.:** [PREENCHER] | **Contribuição:** Desenvolvimento integral (Fases 1 a 6)
+- **Integrante:** Pedro Henrique de Oliveira Gomes | **R.G.M.:** 34090240 | **Contribuição:** Desenvolvimento integral (Fases 1 a 6)
 - **Resumo:** 28 de 28 itens documentados | 28 realizados | 0 parciais | 0 não realizados
 
 ---
